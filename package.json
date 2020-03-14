@@ -1,0 +1,22 @@
+{
+  "name": "php-fronttoback",
+  "version": "1.0.0",
+  "description": "php front to back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inkyysleeves/php-frontToBack.git"
+  },
+  "keywords": [
+    "php"
+  ],
+  "author": "nathan saide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inkyysleeves/php-frontToBack/issues"
+  },
+  "homepage": "https://github.com/inkyysleeves/php-frontToBack#readme"
+}
